@@ -1,0 +1,5 @@
+/home/karol/Documents/studia/walka_o_staz/backend/be_qt/build/CMakeFiles/be_qt.dir
+/home/karol/Documents/studia/walka_o_staz/backend/be_qt/build/CMakeFiles/edit_cache.dir
+/home/karol/Documents/studia/walka_o_staz/backend/be_qt/build/CMakeFiles/rebuild_cache.dir
+/home/karol/Documents/studia/walka_o_staz/backend/be_qt/build/CMakeFiles/be_qt_autogen_timestamp_deps.dir
+/home/karol/Documents/studia/walka_o_staz/backend/be_qt/build/CMakeFiles/be_qt_autogen.dir
